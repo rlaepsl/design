@@ -1,0 +1,4 @@
+part_id,name,category,source_name,norm_basis,nx,ny,nw,nh,recurse_flag,color_mode,text_handling,notes
+P-001,헤더로고,logo,sample_source_a,design_bounds,0.04,0.03,0.22,0.10,false,light_on_dark,include,상단 좌측 로고
+P-002,본문아이콘,picto,sample_source_a,design_bounds,0.40,0.45,0.20,0.20,true,as_is,exclude,중앙 픽토그램
+P-003,푸터템플릿,template,sample_source_b,design_bounds,0.00,0.85,1.00,0.15,false,as_is,include,하단 정보 영역
