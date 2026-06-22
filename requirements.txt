@@ -1,0 +1,6 @@
+# 테스트 (CI/로컬)
+pytest>=7.0
+
+# Illustrator 자동화 데모는 Windows 전용 의존성이 필요합니다(선택).
+# 아래는 Windows에서만 설치하세요:
+#   pywin32>=306
